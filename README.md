@@ -10,4 +10,4 @@
 
 -[Logic Gates](https://github.com/rcruzgar/machine_learning/blob/master/perceptron_gates/logic_gates.ipynb): Perceptron classifier.
 
--Movie Reviews: Sentiment analysis using various classification models.
+-[Movie Reviews](https://github.com/rcruzgar/machine_learning/blob/master/sentiment_movies/sentiment_movies.ipynb): Sentiment analysis using various classification models.
